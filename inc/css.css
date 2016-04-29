@@ -1,0 +1,114 @@
+table{ font-size: 12pt }
+ul, li, h3 {list-style:none; margin:0px; padding:0px;}
+img{border:0px;}
+body,td,th {
+font-family: Arial,;
+color: #505050;
+}
+a {
+font-family: Arial,;
+font-size: 12px;
+}
+A:link {
+	FONT-SIZE: 12pt; COLOR: #505050; FONT-FAMILY: "Arial"; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12pt; COLOR: #505050; FONT-FAMILY: "Arial"; TEXT-DECORATION: none
+}
+A:active {
+	FONT-SIZE: 12pt; COLOR: #B90600; FONT-FAMILY: "Arial"; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12pt; COLOR: #B90600; FONT-FAMILY: "Arial"; TEXT-DECORATION: underline
+}
+BODY {
+	 margin:0px; font-size:12px; line-height:150%; color:#505050; 
+}
+.input {
+	border:1px solid #cccccc; padding:1px; FONT-SIZE: 12px; COLOR: #666666; HEIGHT: 26px; line-height:26px; BACKGROUND-COLOR: #ffffff
+}
+.inputsearch {
+	border:0px; FONT-SIZE: 12px; COLOR: #666666; HEIGHT: 24px; background:url(../images/index_10.jpg) repeat-x;line-height:24px;}
+.buttomstyle{border:0px; background:#ffffff; color:#666666}
+
+.textarea {
+	border:1px solid #cccccc; padding:1px; FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: "Arial"; BACKGROUND-COLOR: #ffffff
+}
+.web_k{font-size:0px; height:10px; width:1200px; margin:0 auto;}
+.con_k{font-size:0px; height:10px; margin:0 auto; clear:both;}
+.padleft{padding-left:10px;}
+.padright{padding-right:10px;}
+.padtop{padding-top:10px;}
+.padbot{padding-bottom:10px;}
+.padall{padding:15px;}
+.font14{font-size:14px;}
+.fontw{font-weight:bold;}
+.font16{font-size:16px;}
+
+.menupadleft{padding-left:15px;}
+.menupadright{padding-right:15px;}
+
+.menulink:link{color:#ffffff; font-size:12px; font-weight:bold}
+.menulink:hover{color:#ffffff;font-size:12px;font-weight:bold}
+.menulink:visited{color:#ffffff;font-size:12px;font-weight:bold}
+
+.td211{width:200px;overflow:hidden;white-space:nowrap;word-break:keep-all;text-overflow:hidden; display: -moz-inline-stack; display: inline-block; zoom: 1;*display: inline;}
+
+.leftmenulink:link{color:#B90600; font-size:12px; font-weight:bold}
+.leftmenulink:hover{color:#B90600;font-size:12px;font-weight:bold}
+.leftmenulink:visited{color:#B90600;font-size:12px;font-weight:bold}
+
+.fenye{clear:both; margin:0 auto; height:40px; line-height:40px; text-align:center;}
+
+.fenye ul li { float:left; border:1px solid #44AFEF; height:20px; line-height:20px; margin:0px 4px;}
+.fenye ul li a, .pageinfo { display:block; padding:0px 6px; background:#BCDDF3; color:#000000}
+.pageinfo  { color:#000;}
+.current { background:#FFF8E6; display:block; padding:0px 6px; font-weight:bold;}
+
+.titlestyle{font-weight:bold; color:#B90600;}
+.tdcicle{border-bottom:1px solid #CCCCCC; border-right:1px solid #CCCCCC; border-left:1px solid #CCCCCC;}
+
+/*首新闻滑动门*/
+.tabsbox_zzjs_net{ width:211px; margin:10px auto;}
+.tabs_zzjs{ height:30px;}
+.tabs_zzjs li{ width:80px; text-align:center; padding-top:2px; line-height:18px; float:left; background-color:#F5F5F5; margin-right:5px; list-style:none; position:relative; cursor:pointer; color:#333; height:30px; line-height:30px;}
+.tabs_zzjs li span{ display:none;}
+.tabs_zzjs .zzjs{ background-color:#D50104; height:30px; line-height:30px; color:#FFFFFF}
+.tabs_zzjs .zzjs span{ display:block; width:1px; height:1px; border:solid 8px; border-color:#D50104 #fff #fff #fff; position:absolute; top:30px; left:32px; overflow:hidden; z-index:-1;}
+.con_wwwzzjsnet{ height:260px; padding:5px 5px; overflow:hidden; border:1px solid #CCCCCC; position:relative; z-index:1; margin-top:11px;}
+.con_wwwzzjsnet ul li{ list-style:none; line-height:25px; text-align:left;}
+.hidden{ display:none;}
+.block{ display:block;}
+/*首新闻滑动门结束*/
+
+.prices{font-size:14px; font-weight:bold; color:#FFFFFF; font-family:Arial;}
+
+.pic
+{
+width:142px;
+height:132px;
+border:solid 1px #ccc;
+text-align:center;
+}
+
+ .pic a
+{
+display:table-cell;
+width:142px;
+height:132px;
+vertical-align:middle;
+*display:block;
+*font-family:Arial!important;
+*font-size:40px;/*约为高度的0.873，160*0.873 约为140*/
+*line-height:1;
+}
+ .pic a img
+{
+vertical-align:middle;
+max-width:142px;
+max-height:132px;
+border:0px;
+}
+
+.tdlr{border-left:1px solid #CCCCCC; border-right:1px solid #CCCCCC;}
+.adddown{border:1px solid #C1C1C1; background:#FFFFFF; color:#2E9429; width:25px; text-align:center}

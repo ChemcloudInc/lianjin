@@ -1,0 +1,587 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>ThiEYE_运动摄像机_运动相机_防水相机_深圳市环球意科科技有限公司</title>
+<meta name="keywords" content="运动摄像机,运动相机,防水相机,运动摄像机价格,运动相机价格,防水相机价格,运动摄像机哪家好,运动相机哪家好,防水相机哪家好,ThiEYE，第i角度,小相机,无线相机,可穿戴相机">
+<meta name="description" content="小巧便携:优质影像,专业防水,丰富配件,不一样的视角,带给您全新的感受,郊游,登山,冲浪,潜水,家庭活动,ThiEYE第i角度运动摄像机,随时随地,捕捉精彩瞬间。">
+<link rel="stylesheet" href="css/font-awesome.css">
+<link rel="stylesheet" href="css/thieye_new.css">
+<link rel="stylesheet" href="css/slider.css">
+<link rel="icon" href="favicon.ico" type="image/x-icon" /> 
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />  
+<script src="js/jquery.min.js"></script>
+<script src="js/thieye.js"></script>
+<script src="js/slider.js"></script>
+</head>
+<body>
+<div id="container" class="notIE">
+<header>
+<div class="sliders">
+<div class="slider-wrap">
+
+<div class="slider slider-1 banner-1" style="display: block;">
+<a href="features.html"><div style="width:100%;height:761px;background:none;border:none;border-radius:0px;"></div></a>
+</div>
+
+<div class="slider slider-2 banner-2" style="display: none;">
+<a href="features.html"><div style="width:100%;height:761px;background:none;border:none;border-radius:0px;"></div></a>
+</div>
+
+<div class="slider slider-3 banner-3" style="display: none;"></div>
+
+</div>
+
+<ul class="bullet" style="margin-left: -52.5px;">
+<li data-index="0"><i class="fa fa-circle"></i></li>
+<li data-index="1"><i class="fa fa-circle-thin"></i></li>
+<li data-index="2"><i class="fa fa-circle-thin"></i></li>
+</ul>
+
+</div>
+
+<nav>
+<div id="nav" style="position: relative; z-index: 2; width: 100%;">
+<div style="height: 30px;"></div>
+<div style="margin: 0 auto; background-color: rgba(0, 0, 0, 0.5); width: 100%">
+<div style="height: 45px; width: 1080px; margin: 0 auto;">
+
+<div style="float: left; line-height: 45px;">
+<a href="/"><img src="images/logo.png" style="padding-top: 8px; width: 93px; height: 35px;" /></a>
+</div>
+
+<div style="float:left;width:750px;height:45px;">
+<div class="nav-wrap" style="padding-left:290px">
+<ul>
+<li id="sub-product"><a href="javascript:void(0)">摄像机</a><span>·</span></li>
+<li><a href="javascript:void(0)" onmouseenter="$('#nav_down_pro').hide();">固定支架</a><span>·</span></li>
+<li><a href="javascript:void(0)" onmouseenter="$('#nav_down_pro').hide();">配件</a><span>·</span></li>
+<li><a href="javascript:void(0)" onmouseenter="$('#nav_down_pro').hide();">使用分享</a><span>·</span></li>
+<li><a href="app.html" onmouseenter="$('#nav_down_pro').hide();">APP</a><span></span></li>
+<li></li>	
+
+<script>
+$(function(){
+$('#btnSearch').click(function(){
+$('#btnSearch').hide();
+$('.nav-wrap').css('padding-left','200px');
+$('#txtSearch').show().addClass('searchShow');
+$('#txtSearch').focus();
+});
+$('#txtSearch').blur(function(){
+$('.nav-wrap').css('padding-left','290px');
+$('#txtSearch').removeClass('searchShow').animate({  
+width : "hide",  
+paddingLeft : "hide",  
+paddingRight : "hide",  
+marginLeft : "hide",  
+marginRight : "hide"  
+});
+$('#btnSearch').show('normal');
+});
+});
+</script>
+
+</ul>
+</div>
+</div>
+
+<div id="apple" style="float:right">
+<a id="btnSearch" href="javascript:void(0)"><img src="images/search_icon_white.png" style="padding-top: 14px;"></a>
+<form method="get" id="search" style="float:left;padding-top: 14px;">
+<input name="q" id="txtSearch" type="text" placeholder="Search..." style="display:none"/>
+</form>
+</div>
+<!-- 
+<div style="float:right;color:#fff;height:45px;line-height:45px;">
+<a href="http://www.thieye.com.cn" style="color:#fff;text-decoration:none;">中文</a>
+<span style="color: #fff; padding: 0px;">|</span>
+<a href="http://www.thieye.com" style="color:#fff;text-decoration:none;">English</a>
+</div>
+-->
+</div>
+</div>
+
+<div id="nav_down_pro" style="width: 100%; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+
+<div id="header-sub" class="header-sub">
+
+<ul class="header-sub-products">
+<li class="header-sub-product" style="padding-top: 30px;">
+<a href="features.html"><div style="text-align: center"><div class="header-sub-seprator"></div></div></a>
+</li>
+
+<li class="header-sub-product" style="padding-top: 30px;">
+<a href="features.html">
+<div style="text-align: center">
+<div class="header-sub-img i60"></div><p class="header-sub-desc">ThiEYE i60<br> <span class="header-sub-spec">Full HD·WiFi</span></p>
+</div>
+</a>
+</li>
+
+<li class="header-sub-product" style="padding-top: 30px;">
+<a href="features.html"><div style="text-align: center"><div class="header-sub-seprator"></div></div></a>
+</li>
+
+<li class="header-sub-product"
+style="padding-top: 30px;">
+<div style="text-align:center">
+	<a href="javascript:void(0)">
+		<div class="header-sub-img i30"></div>
+		<p class="header-sub-desc">
+			ThiEYE i30<br> <span class="header-sub-spec">Mini HD·WiFi</span>
+		</p>
+	</a>
+	<div>
+	</li>
+	<li class="header-sub-product" style="padding-top: 30px;">
+	<a href="javascript:void(0)">
+	<div style="text-align: center">
+		<div class="header-sub-seprator"></div>
+	</div>
+	</a></li>
+</ul>
+		  </div>
+		</div>
+	  </div>
+	</nav>
+  </header>
+
+<div align="center">
+<table width="1125" height="246" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="middle"><a href="javascript:void(0)"><img src="images/spot1.png" alt="让你的相机可穿戴"></a></td>
+<td align="center" valign="middle"><a href="javascript:void(0)" target="_blank"><img src="images/spot2.png" alt="装配你的相机"></a> </td>
+<td align="center" valign="middle"><a href="javascript:void(0)" target="_blank"><img src="images/spot3.jpg" alt="分享精彩瞬间"></a></td>
+</tr>
+</table>
+
+		
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td width="20" height="25" align="center" background="images/a1.jpg">&nbsp;</td></tr>
+</table>
+      
+	  
+
+<table width="1110" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr >
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="数码相机相对于传统相机的不足">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=21" target="_blank">
+数码相机相对于传统相机的不足
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="可以实现精确、细致的信号调整">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=20" target="_blank">
+可以实现精确、细致的信号调整
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="录像机在现代家庭中主要有哪些用途?">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=19" target="_blank">
+录像机在现代家庭中主要有哪些用途?
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="摄录像机的故降检修方法">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=18" target="_blank">
+摄录像机的故降检修方法
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="位置相对固定的运动对象的拍摄技巧">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=17" target="_blank">
+位置相对固定的运动对象的拍摄技巧
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="摄像机镜头意识">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=16" target="_blank">
+摄像机镜头意识
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="家用摄像机要具有小型轻便、操作容易、价格合适等特点才能够普及">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=15" target="_blank">
+家用摄像机要具有小型轻便、操作容易、
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="数码相机的主要参数">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=14" target="_blank">
+数码相机的主要参数
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="黑白摄象机和彩色摄象机">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=13" target="_blank">
+黑白摄象机和彩色摄象机
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="彩色录像机机构">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=12" target="_blank">
+彩色录像机机构
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="数码相机的保养">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=11" target="_blank">
+数码相机的保养
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="自动聚焦及其原理">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=10" target="_blank">
+自动聚焦及其原理
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="摄像机镜头进行变焦距的变化有两种控制方法">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=9" target="_blank">
+摄像机镜头进行变焦距的变化有两种控制
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="镜头的景深原理">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=8" target="_blank">
+镜头的景深原理
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="镜头及其成像原理">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=7" target="_blank">
+镜头及其成像原理
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="数码摄像机的组成及工作原理">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=6" target="_blank">
+数码摄像机的组成及工作原理
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="运动摄像机可以实现精确、细致的信号调整">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=5" target="_blank">
+运动摄像机可以实现精确、细致的信号调
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="简化调整机构和调整方式">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=4" target="_blank">
+简化调整机构和调整方式
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="彩色摄像机的种类是依据摄像管的多少来划分的">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=3" target="_blank">
+彩色摄像机的种类是依据摄像管的多少来
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="三管式彩色摄像机及其摄像器件的使用">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=2" target="_blank">
+三管式彩色摄像机及其摄像器件的使用
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+<td width="436"  align="left" valign="middle" >
+<table width="370" border="0" align="left" cellpadding="0" cellspacing="0">
+<tr title="运动摄像机与传统数码相机产品的异同">
+<td width="17" align="left"><img src="images/d1.jpg" width="5" height="5" /></td>
+<td width="273" height="26" align="left" >
+<a href="viewnews.asp?newsid=1" target="_blank">
+运动摄像机与传统数码相机产品的异同
+</a>
+</td>
+<td width="80" align="center" >[2016-4-11]</td>
+</tr>
+</table> 
+</td>
+
+</tr>
+
+</table>
+
+	
+</div>
+		
+		
+<div class="footer">
+<div class="footer-nav-links">
+<a href="support.html" class="button gray">技术支持</a> · 
+<a href="about.html" class="button gray">关于我们</a> · 
+<a href="contact.html" class="button gray">联系我们</a> · 
+<a id="footer_nav_2" href="javascript:void(0)">加入我们</a> · 
+<a id="footer_nav_3" href="javascript:void(0)">新闻事件</a>
+</div>
+
+<div style="padding-top:30px;"><span>关于我们</span></div>
+<div style="padding-top:5px;">
+<a style="display: inline-block; padding-left: 5px;" href="javascript:void(0)"><img src="images/b_weixin.png" style="width:47px;height:47px;"></a>
+<a style="display: inline-block; padding-left: 5px;" href="javascript:void(0)"><img src="images/b_weibo.png" style="width:47px;height:47px;"></a>
+<a style="display: inline-block; padding-left: 5px;" href="tiao.asp" target="_blank"><img src="images/b_youku.png" style="width:47px;height:47px;"></a>
+</div>
+
+<div class="copyright">深圳市环球意科科技有限公司 粤ICP备XXXX号<br /><br />
+
+
+
+友情链接： 
+<a href="http://www.thieye.cc">运动摄像机</a>  
+<a href="http://www.thieye.cc">运动相机</a>  
+<a href="http://www.thieye.cc">防水相机</a>  
+
+<a href="http://www.whgxzj.com" target="_blank">数控钻</a>   
+
+<a href="http://www.51bwg.net" target="_blank">铝箔波纹管</a>   
+
+<a href="http://www.yzmingrui.com" target="_blank">进口引纸绳</a>   
+
+<a href="http://www.kanghuistone.com" target="_blank">黄金麻</a>   
+
+<a href="http://www.ruishile.com" target="_blank">真空脱气机</a>   
+
+<a href="http://www.hunanliyin.com.cn" target="_blank">测听室</a>   
+
+<a href="http://www.hzjpzp.com" target="_blank">字牌标识</a>   
+
+<a href="http://www.0101718.com" target="_blank">电磁流量计</a>   
+
+<a href="http://www.jiao-gun.cc" target="_blank">胶辊</a>   
+
+<a href="http://www.pmbz.cc" target="_blank">泡沫包装</a>   
+
+<a href="http://www.wxzfsj.net" target="_blank">合成树脂瓦</a>   
+
+<a href="http://www.lqbwcl.cc" target="_blank">岩棉板</a>   
+
+<a href="http://www.ycsgy.com" target="_blank">仿古青砖瓦</a>   
+
+<a href="http://www.chinadjkj.cn" target="_blank">回转窑</a>   
+
+<a href="http://www.yuchin.cc/" target="_blank">展会搭建</a>   
+
+<a href="http://51fsdl.cc" target="_blank">杭州防水</a>   
+
+<a href="http://www.mouldu.org" target="_blank">如意娱乐</a>   
+
+<a href="http://www.szth186.com" target="_blank">二手塑胶卡板</a>   
+
+<a href="http://www.szjxlb.com" target="_blank">TC布碎</a>   
+
+<a href="http://www.szzhikaban.com" target="_blank">纸卡板</a>   
+
+<a href="http://tsbsmk.com" target="_blank">唐山停车场系统</a>   
+
+<a href="http://www.mstcooling.com" target="_blank">闭式冷却塔</a>   
+
+<a href="http://www.wxyangyi.com" target="_blank">无锡烟道</a>   
+
+<a href="http://www.hunanliyin.com.cn" target="_blank">欧曼驾驶室</a>   
+
+<a href="http://www.bjdxhysc.com" target="_blank">文化砖</a>   
+
+<a href="http://www.scxs.cn" target="_blank">去离子水设备</a>   
+
+<a href="http://www.jun-hao.com" target="_blank">游艇码头</a>   
+
+<a href="http://www.y-s.net.cn" target="_blank">北京印刷厂</a>   
+
+<a href="http://www.runyangstone.com" target="_blank">芝麻白</a>   
+
+<a href="http://www.hnsrsl.com" target="_blank">塑料袋定做批发</a>   
+
+<a href="http://www.xlptmw.net" target="_blank">葡萄苗木</a>   
+
+<a href="http://www.bjdell.cn" target="_blank">北京DELL</a>   
+
+<a href="http://www.mdsbj.com" target="_blank">钢结构设计</a>   
+
+<a href="http://www.shdnas.com" target="_blank">上海亲子鉴定</a>   
+
+<a href="http://www.qzcjn.com" target="_blank">校车价格</a>   
+
+<a href="http://www.jl-lm.com" target="_blank">龙门铣</a>   
+
+<a href="http://www.chaoyoo.com" target="_blank">芜湖监控</a>   
+
+</div>
+</div>
+</div>	
+<script type='text/javascript' src="js/click.js"></script>
+</body>
+</html>

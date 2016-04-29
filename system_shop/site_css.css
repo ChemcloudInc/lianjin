@@ -1,0 +1,21 @@
+/*===== 公用样式 =====*/
+body         { font-family: monospace; font-size: 12pt; line-height: 150% }
+.chk         { border-style: outset; border-width: 0; padding: 0 }
+.tdfont      { font-family: monospace; font-size: 12pt; letter-spacing: 1pt; line-height: 
+               150% }
+a:link       { font-family: monospace; font-size: 9pt; color: #333333; text-decoration:none }
+a:active     { font-family: monospace; font-size: 9pt; color: #333333; text-decoration: 
+               underline }
+a:hover      { font-family: monospace; font-size: 9pt; color:#333333; text-decoration:none }
+a:visited    { font-family: monospace; font-size: 9pt; color:#333333; text-decoration:none }
+table        { font-family: monospace; font-size: 9pt; line-height: 150% }
+td           { line-height: 150% }
+.input        { color: #000000; border: 1px solid #A4B6D7; background-color: #fefefe }
+textarea     { border: 1px solid #A4B6D7 }
+.go {
+	BORDER-RIGHT: #a2a2a2 1px outset; PADDING-RIGHT: 1px; BORDER-TOP: #ffffff 1px outset; PADDING-LEFT: 1px; FONT-SIZE: 9pt; PADDING-BOTTOM: 1px; BORDER-LEFT: #ffffff 1px outset; CURSOR: hand; COLOR: #333333; PADDING-TOP: 1px; BORDER-BOTTOM: #a2a2a2 1px outset; FONT-FAMILY: "宋体"; HEIGHT: 19px; BACKGROUND-COLOR: #eeeeee
+}
+.linkurl:link{color:#0000CC; text-decoration:underline}
+.linkurl:visited{color:#0000CC; text-decoration:underline}
+.linkurl:active{color:#0000CC; text-decoration:underline}
+.linkurl:hover{color:#ff0000; text-decoration:underline}
